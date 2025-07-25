@@ -4,11 +4,11 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.0/firebas
 import { getAuth } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
+  apiKey: "AIzaSyAzZ5tZtLRf2p8UZVyUHxsh6R53Xv5lzZg",
+  authDomain: "examresultsystem.firebaseapp.com",
+  projectId: "examresultsystem",
+  storageBucket: "examresultsystem.firebasestorage.app",
+  messagingSenderId: "1:947635303369:web:456ddb7e607f5f2a39ee18",
   appId: "YOUR_APP_ID"
 };
 

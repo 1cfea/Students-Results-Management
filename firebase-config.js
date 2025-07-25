@@ -8,8 +8,8 @@ const firebaseConfig = {
   authDomain: "examresultsystem.firebaseapp.com",
   projectId: "examresultsystem",
   storageBucket: "examresultsystem.firebasestorage.app",
-  messagingSenderId: "1:947635303369:web:456ddb7e607f5f2a39ee18",
-  appId: "YOUR_APP_ID"
+  messagingSenderId: "947635303369",
+  appId: "1:947635303369:web:456ddb7e607f5f2a39ee18"
 };
 
 const app = initializeApp(firebaseConfig);
